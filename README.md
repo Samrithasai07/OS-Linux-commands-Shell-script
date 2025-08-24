@@ -3,7 +3,7 @@ Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
 
-# AIM:
+# AIM: 
 To practice Linux Commands and Shell Scripting
 
 # DESIGN STEPS:
